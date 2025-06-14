@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\AppCafe\AppCafe\bin\Debug\AppCafe.exe.config
+C:\Users\USER\Downloads\AppCafe\AppCafe\bin\Debug\AppCafe.exe
+C:\Users\USER\Downloads\AppCafe\AppCafe\bin\Debug\AppCafe.pdb
+C:\Users\USER\Downloads\AppCafe\AppCafe\obj\Debug\AppCafe.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\AppCafe\AppCafe\obj\Debug\AppCafe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\AppCafe\AppCafe\obj\Debug\AppCafe.exe
+C:\Users\USER\Downloads\AppCafe\AppCafe\obj\Debug\AppCafe.pdb
